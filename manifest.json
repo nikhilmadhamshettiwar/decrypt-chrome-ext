@@ -14,8 +14,9 @@
                 "<all_urls>"
             ],
             "js": [
-                "content.js"
-            ]
+                "content.js", "jquery.js"
+            ],
+            "css": ["content.css"]
         }
     ],
     "permissions": [
